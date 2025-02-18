@@ -30,7 +30,7 @@ The mini-compiler performs the following tasks:
 
 ### Compilation and Execution Steps
 
-1. **Use Linux Subsystems**:
+1. **Use Linux Subsystems/OS**:
    ```bash
    wsl
    ```
