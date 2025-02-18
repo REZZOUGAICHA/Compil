@@ -1,0 +1,56 @@
+int x
+Let int num be 10 
+Let float y be 3.14
+Let float num2 be y+num 
+Let bool isActive be true
+Let str name be "Aicha" + "Rezzoug"
+Let Array numbers be [1, "hind", 3, 4, 5]
+Let Dict userInfo be {"name": "Aicha", "age": 21}
+Let str username be "hind"
+Function greet: str (str username) {
+    Print "Hello, " + username
+    For each num in numbers:
+    Print "Number: " + num
+EndFor
+    return "Greeting sent"
+}
+Call greet with parameters (name)
+if x > 5:
+    Print "hi"
+elseIf x < 5:
+    Print "good"
+elseIf x == 5:
+    Print "perfect"
+else:
+    Print "hello"
+EndIf
+For each num in numbers:
+    Print "Number: " + num
+EndFor
+Let int counter be 10
+While counter < 5:
+    Print "Counter is: "
+    Let counter be counter + 1
+EndWhile
+Let int sum be 0
+Print "Total sum is: " + sum
+Let int day be 3
+Switch day:
+    Case 1:
+        Print "Monday"
+    Case 2:
+        Print "Tuesday"
+    Case 3:
+        Print "Wednesday"
+    Default:
+        Print "Invalid day"
+EndSwitch
+Repeat:
+Let counter be counter - 1
+Until counter == 0
+EndRepeat
+comment : Hello .
+Let bool resultt be not true
+Function func:int(int x, int y)
+{}
+const int name3333 be 10
